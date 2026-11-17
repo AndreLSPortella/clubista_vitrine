@@ -4,7 +4,7 @@ Jogo de gerenciamento de futebol para celular, em que o jogador é um técnico q
 
 ## A ideia
 
-O Clubista segue a linha dos jogos de gerenciamento de futebol dos anos 2000, com o Brasfoot como principal inspiração. O jogador é um técnico que constrói a carreira passando por clubes de várias ligas: monta o elenco, negocia no mercado, cuida das finanças e da comissão técnica, treina o time e responde à diretoria.
+O Clubista segue a linha dos jogos de gerenciamento de futebol dos anos 2000. O jogador é um técnico que constrói a carreira passando por clubes de várias ligas: monta o elenco, negocia no mercado, cuida das finanças e da comissão técnica, treina o time e responde à diretoria.
 
 A diferença está na profundidade tática. Escolher o estilo, a formação e os jogadores muda o que acontece em campo, sem bônus escondidos. O jogo mostra por quê, nas estatísticas, nos comentários da comissão técnica e no relatório do adversário. Tudo isso continua simples de jogar no celular.
 
